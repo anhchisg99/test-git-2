@@ -4,3 +4,5 @@ con ga 3
 con
 ga
 conga3
+
+fix nhanh
